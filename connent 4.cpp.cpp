@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 #include <iostream>
 #include<string>
 
